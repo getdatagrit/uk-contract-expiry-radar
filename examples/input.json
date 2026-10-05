@@ -1,0 +1,6 @@
+{
+  "expiresAfterMonths": 0,
+  "expiresBeforeMonths": 12,
+  "publishedLookbackDays": 7,
+  "maxItems": 20
+}
